@@ -1,0 +1,74 @@
+2020-08-05T22:30:02.697Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:02:38.250Z [myBankAPI] info: Account data file created!
+2020-08-05T23:02:38.252Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:40:34.909Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:40:41.681Z [myBankAPI] error: ENOENT: no such file or directory, open './data/accounts.json'
+2020-08-05T23:42:43.580Z [myBankAPI] info: Account data file created!
+2020-08-05T23:42:43.588Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:42:50.184Z [myBankAPI] error: GET /accounts ENOENT: no such file or directory, open './data/accounts.json'
+2020-08-05T23:43:28.898Z [myBankAPI] info: Account data file created!
+2020-08-05T23:43:28.901Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:44:56.722Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:45:15.622Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:45:27.664Z [myBankAPI] info: GET /account
+2020-08-05T23:45:53.922Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:45:58.760Z [myBankAPI] info: POST /account - {"name":"Lucas Assis","balance":2000000}
+2020-08-05T23:46:02.417Z [myBankAPI] info: GET /account
+2020-08-05T23:46:07.808Z [myBankAPI] info: GET /account/5
+2020-08-05T23:46:13.617Z [myBankAPI] info: GET /account/1
+2020-08-05T23:46:49.862Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:46:54.515Z [myBankAPI] info: DELETE /account/1
+2020-08-05T23:47:36.242Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:48:28.607Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:48:33.556Z [myBankAPI] info: POST /account - {"name":"Lucas Assis","balance":2000000}
+2020-08-05T23:48:39.190Z [myBankAPI] info: POST /account - {"name":"Luan Assis","balance":2000000}
+2020-08-05T23:49:00.685Z [myBankAPI] info: GET /account
+2020-08-05T23:49:14.893Z [myBankAPI] info: PATCH /updateBalance - {"id":3,"name":"Luan Assis","balance":80000}
+2020-08-05T23:49:22.305Z [myBankAPI] info: DELETE /account/1
+2020-08-05T23:49:26.175Z [myBankAPI] info: DELETE /account/2
+2020-08-05T23:54:22.035Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:56:08.570Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:56:38.035Z [myBankAPI] error: POST /accounts - Os items `name` e `balance` são obrigatórios
+2020-08-05T23:57:10.124Z [myBankAPI] error: POST /accounts - Os items `name` e `balance` são obrigatórios
+2020-08-05T23:57:41.271Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:58:48.610Z [myBankAPI] info: POST /account - {"name":"Reinaldo"}
+2020-08-05T23:58:57.560Z [myBankAPI] info: API Running on port 3000
+2020-08-05T23:59:10.612Z [myBankAPI] error: POST /accounts - Os items `name` e `balance` são obrigatórios
+2020-08-06T00:02:34.124Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:02:37.761Z [myBankAPI] error: POST /accounts - Os items `name` e `balance` são obrigatórios
+2020-08-06T00:03:13.652Z [myBankAPI] info: POST /account - {"name":"Leandro","balance":23411,"teste":"dfasd"}
+2020-08-06T00:04:44.522Z [myBankAPI] error: PUT /accounts - writeFile is not defined
+2020-08-06T00:04:55.124Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:04:57.144Z [myBankAPI] info: PUT /account - {"id":5000,"name":"Lucas Assis","balance":530058.89}
+2020-08-06T00:05:02.328Z [myBankAPI] info: GET /account
+2020-08-06T00:05:19.534Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:05:25.188Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:05:31.935Z [myBankAPI] info: GET /account
+2020-08-06T00:05:36.566Z [myBankAPI] info: PUT /account - {"id":5000,"name":"Lucas Assis","balance":530058.89}
+2020-08-06T00:05:42.832Z [myBankAPI] info: GET /account
+2020-08-06T00:06:43.122Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:06:46.439Z [myBankAPI] info: GET /account
+2020-08-06T00:06:49.790Z [myBankAPI] error: PUT /accounts - Registro não encontrado
+2020-08-06T00:07:04.449Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:07:07.123Z [myBankAPI] error: PUT /accounts - Registro não encontrado
+2020-08-06T00:07:35.338Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:07:37.551Z [myBankAPI] error: PUT /accounts - Registro não encontrado
+2020-08-06T00:08:50.990Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:08:52.752Z [myBankAPI] error: PUT /accounts - Registro não encontrado
+2020-08-06T00:10:42.406Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:10:45.474Z [myBankAPI] error: PUT /accounts - Registro não encontrado
+2020-08-06T00:10:55.373Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:10:56.501Z [myBankAPI] error: PUT /accounts - Registro não encontrado
+2020-08-06T00:11:30.266Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:11:49.841Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:12:18.537Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:12:57.405Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:13:35.359Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:14:53.172Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:15:02.918Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:15:15.707Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:16:31.344Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:16:51.858Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:20:55.229Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:21:37.306Z [myBankAPI] info: API Running on port 3000
+2020-08-06T00:31:18.931Z [myBankAPI] info: API Running on port 3000
