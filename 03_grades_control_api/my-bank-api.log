@@ -1,0 +1,356 @@
+2020-08-06T17:24:43.906Z [myBankAPI] info: api running on port 3000
+2020-08-06T17:32:57.643Z [myBankAPI] info: api running on port 3000
+2020-08-06T17:35:23.895Z [myBankAPI] info: api running on port 3000
+2020-08-06T17:36:48.734Z [myBankAPI] info: api running on port 3000
+2020-08-06T17:37:16.638Z [myBankAPI] info: api running on port 3000
+2020-08-06T17:38:26.810Z [myBankAPI] info: api running on port 3000
+2020-08-06T17:42:19.028Z [myBankAPI] info: api running on port 3000
+2020-08-06T17:42:25.203Z [myBankAPI] info: api running on port 3000
+2020-08-06T17:43:11.119Z [myBankAPI] info: POST / request received
+2020-08-06T17:43:27.773Z [myBankAPI] info: api running on port 3000
+2020-08-06T17:43:31.606Z [myBankAPI] info: POST / request received
+2020-08-06T17:43:39.623Z [myBankAPI] info: api running on port 3000
+2020-08-06T17:43:44.764Z [myBankAPI] info: api running on port 3000
+2020-08-06T17:44:01.189Z [myBankAPI] info: api running on port 3000
+2020-08-06T17:44:15.195Z [myBankAPI] info: api running on port 3000
+2020-08-06T18:44:31.788Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:09:04.212Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:09:32.111Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:09:36.536Z [myBankAPI] info: POST / request received
+2020-08-06T19:09:36.538Z [myBankAPI] error: POST / - Cannot read property 'student' of undefined
+2020-08-06T19:10:43.465Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:11:43.014Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:11:44.031Z [myBankAPI] info: POST /grades request received
+2020-08-06T19:11:44.033Z [myBankAPI] error: POST /grades - Cannot read property 'student' of undefined
+2020-08-06T19:11:57.266Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:11:58.772Z [myBankAPI] info: POST /grades request received
+2020-08-06T19:11:58.774Z [myBankAPI] error: POST /grades - Cannot read property 'student' of undefined
+2020-08-06T19:12:31.780Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:12:38.998Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:12:45.295Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:12:46.407Z [myBankAPI] info: POST /grades request received
+2020-08-06T19:12:46.408Z [myBankAPI] error: POST /grades - Invalid payload
+2020-08-06T19:13:38.903Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:13:45.185Z [myBankAPI] info: POST /grades request received
+2020-08-06T19:13:45.185Z [myBankAPI] error: POST /grades - Invalid payload
+2020-08-06T19:14:13.015Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:14:34.438Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:14:34.439Z [myBankAPI] error: POST /grades - Invalid payload
+2020-08-06T19:15:19.841Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:15:22.102Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:15:22.103Z [myBankAPI] error: POST /grades - Invalid payload
+2020-08-06T19:15:50.787Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:15:52.374Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:15:52.379Z [myBankAPI] error: POST /grades - Invalid payload
+2020-08-06T19:16:10.941Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:16:15.574Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:16:15.579Z [myBankAPI] error: POST /grades - Invalid payload
+2020-08-06T19:17:06.457Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:17:08.081Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:17:08.084Z [myBankAPI] error: POST /grades - Invalid payload
+2020-08-06T19:21:50.236Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:22:03.839Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:24:32.408Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:24:32.409Z [myBankAPI] error: POST /grades - Invalid payload
+2020-08-06T19:24:37.538Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:24:37.538Z [myBankAPI] error: POST /grades - Invalid payload
+2020-08-06T19:24:42.335Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:24:42.335Z [myBankAPI] error: POST /grades - Invalid payload
+2020-08-06T19:24:47.219Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:24:55.987Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:24:55.987Z [myBankAPI] error: POST /grades - Invalid payload
+2020-08-06T19:25:00.150Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:30:21.884Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:34:46.458Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:34:49.480Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:34:49.504Z [myBankAPI] error: Trying to read file ~/database/grades.json - ENOENT: no such file or directory, open '~/database/grades.json'
+2020-08-06T19:35:17.688Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:35:19.073Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:35:19.092Z [myBankAPI] error: Trying to read file ~/database/grades.json - ENOENT: no such file or directory, open '~/database/grades.json'
+2020-08-06T19:58:55.801Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:58:58.704Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:58:58.712Z [myBankAPI] error: Trying to read file ~/database/grades.json - ENOENT: no such file or directory, open '~/database/grades.json'
+2020-08-06T19:59:20.730Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:59:24.986Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:59:24.987Z [myBankAPI] error: Trying to read file ~/database/grades.json - ENOENT: no such file or directory, open '~/database/grades.json'
+2020-08-06T19:59:24.990Z [myBankAPI] error: POST /grades - An error occurred while trying to access the resource
+2020-08-06T19:59:40.369Z [myBankAPI] info: api running on port 3000
+2020-08-06T19:59:43.183Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T19:59:43.185Z [myBankAPI] error: Trying to read file /database/grades.json - ENOENT: no such file or directory, open '/database/grades.json'
+2020-08-06T19:59:43.187Z [myBankAPI] error: POST /grades - An error occurred while trying to access the resource
+2020-08-06T20:31:03.520Z [myBankAPI] info: api running on port 3000
+2020-08-06T20:31:06.879Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T20:31:06.880Z [myBankAPI] error: Trying to read file ../../database/grades.json - ENOENT: no such file or directory, open '../../database/grades.json'
+2020-08-06T20:31:06.883Z [myBankAPI] error: POST /grades - An error occurred while trying to access the resource
+2020-08-06T20:36:20.934Z [myBankAPI] info: api running on port 3000
+2020-08-06T20:38:31.933Z [myBankAPI] info: api running on port 3000
+2020-08-06T20:38:36.023Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T20:38:36.024Z [myBankAPI] error: Trying to read file [object Object] - The "path" argument must be of type string or an instance of Buffer or URL. Received an instance of Object
+2020-08-06T20:38:36.026Z [myBankAPI] error: POST /grades - An error occurred while trying to access the resource
+2020-08-06T20:39:33.648Z [myBankAPI] info: api running on port 3000
+2020-08-06T20:39:39.519Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T20:39:39.520Z [myBankAPI] error: Trying to read file /database/grades.json - ENOENT: no such file or directory, open '/database/grades.json'
+2020-08-06T20:39:39.521Z [myBankAPI] error: POST /grades - An error occurred while trying to access the resource
+2020-08-06T20:40:33.970Z [myBankAPI] info: api running on port 3000
+2020-08-06T20:40:36.640Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T20:40:36.649Z [myBankAPI] error: Trying to read file ../database/grades.json - ENOENT: no such file or directory, open '../database/grades.json'
+2020-08-06T20:40:36.651Z [myBankAPI] error: POST /grades - An error occurred while trying to access the resource
+2020-08-06T20:40:52.471Z [myBankAPI] info: api running on port 3000
+2020-08-06T20:40:54.890Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T20:40:54.894Z [myBankAPI] error: Trying to read file ../../database/grades.json - ENOENT: no such file or directory, open '../../database/grades.json'
+2020-08-06T20:40:54.895Z [myBankAPI] error: POST /grades - An error occurred while trying to access the resource
+2020-08-06T20:41:14.642Z [myBankAPI] info: api running on port 3000
+2020-08-06T20:41:17.018Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T20:41:17.022Z [myBankAPI] error: Trying to read file ./../../database/grades.json - ENOENT: no such file or directory, open './../../database/grades.json'
+2020-08-06T20:41:17.024Z [myBankAPI] error: POST /grades - An error occurred while trying to access the resource
+2020-08-06T20:41:57.989Z [myBankAPI] info: api running on port 3000
+2020-08-06T20:42:01.392Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T20:42:01.394Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T20:42:01.395Z [myBankAPI] error: Trying to read file ./../../database/grades.json - ENOENT: no such file or directory, open './../../database/grades.json'
+2020-08-06T20:42:01.396Z [myBankAPI] error: POST /grades - An error occurred while trying to access the resource
+2020-08-06T20:42:01.402Z [myBankAPI] error: Trying to read file ./../../database/grades.json - ENOENT: no such file or directory, open './../../database/grades.json'
+2020-08-06T20:42:01.402Z [myBankAPI] error: POST /grades - An error occurred while trying to access the resource
+2020-08-06T20:42:23.491Z [myBankAPI] info: api running on port 3000
+2020-08-06T20:42:25.924Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T20:43:04.698Z [myBankAPI] info: api running on port 3000
+2020-08-06T21:37:35.704Z [myBankAPI] info: api running on port 3000
+2020-08-06T21:37:39.308Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T21:37:57.557Z [myBankAPI] info: api running on port 3000
+2020-08-06T21:37:59.242Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T21:38:07.610Z [myBankAPI] info: api running on port 3000
+2020-08-06T21:38:08.470Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T21:38:30.184Z [myBankAPI] info: api running on port 3000
+2020-08-06T21:38:34.759Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T21:39:34.439Z [myBankAPI] info: api running on port 3000
+2020-08-06T21:39:39.911Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T21:39:44.886Z [myBankAPI] info: api running on port 3000
+2020-08-06T21:39:46.775Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T21:39:56.159Z [myBankAPI] info: api running on port 3000
+2020-08-06T21:39:57.474Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T21:40:23.140Z [myBankAPI] info: api running on port 3000
+2020-08-06T21:40:24.470Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T21:40:30.934Z [myBankAPI] info: api running on port 3000
+2020-08-06T21:41:56.051Z [myBankAPI] info: api running on port 3000
+2020-08-06T21:41:58.215Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T21:42:13.186Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T21:42:47.699Z [myBankAPI] info: api running on port 3000
+2020-08-06T21:42:49.228Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T21:59:02.368Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:01:57.581Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:02:11.400Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T22:02:11.405Z [myBankAPI] info: POST /grades - Response sent
+2020-08-06T22:02:11.913Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:03:08.657Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:03:40.100Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:03:47.288Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:03:58.531Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T22:03:58.535Z [myBankAPI] info: POST /grades - Response sent
+2020-08-06T22:05:47.197Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:07:57.981Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:08:12.250Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T22:08:12.254Z [myBankAPI] info: POST /grades - Response sent
+2020-08-06T22:08:20.932Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T22:08:20.934Z [myBankAPI] info: POST /grades - Response sent
+2020-08-06T22:08:48.685Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:08:50.809Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T22:08:50.811Z [myBankAPI] error: POST /grades - Invalid payload
+2020-08-06T22:08:57.987Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T22:08:57.991Z [myBankAPI] info: POST /grades - Response sent
+2020-08-06T22:09:14.421Z [myBankAPI] info: POST /grades - Request received
+2020-08-06T22:09:14.425Z [myBankAPI] info: POST /grades - Response sent
+2020-08-06T22:15:52.750Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:16:01.734Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:16:13.333Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:16:29.532Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:16:39.683Z [myBankAPI] info: PUT /grades/1 - Request received
+2020-08-06T22:16:39.684Z [myBankAPI] info: PUT /grades/1 - Response sent
+2020-08-06T22:25:28.302Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:25:35.519Z [myBankAPI] info: PUT /grades/1d - Request received
+2020-08-06T22:25:35.520Z [myBankAPI] error: PUT /grades/1d - Invalid id
+2020-08-06T22:25:50.027Z [myBankAPI] info: PUT /grades/50000 - Request received
+2020-08-06T22:25:50.030Z [myBankAPI] error: PUT /grades/50000 - The resource of id 50000 does not exist
+2020-08-06T22:26:09.867Z [myBankAPI] info: PUT /grades/5 - Request received
+2020-08-06T22:26:09.873Z [myBankAPI] info: PUT /grades/5 - Response sent
+2020-08-06T22:27:24.085Z [myBankAPI] info: PUT /grades/500000 - Request received
+2020-08-06T22:27:24.091Z [myBankAPI] error: PUT /grades/500000 - The resource of id 500000 does not exist
+2020-08-06T22:31:31.214Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:32:04.134Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:33:18.619Z [myBankAPI] info: PUT /grades/1 - Request received
+2020-08-06T22:33:18.624Z [myBankAPI] info: PUT /grades/1 - Success
+2020-08-06T22:34:15.174Z [myBankAPI] info: api running on port 3000
+2020-08-06T22:34:29.820Z [myBankAPI] info: PUT /grades/2 - Request received
+2020-08-06T22:34:29.823Z [myBankAPI] info: PUT /grades/2 - Success
+2020-08-06T22:34:44.502Z [myBankAPI] info: PUT /grades/2s - Request received
+2020-08-06T22:34:44.503Z [myBankAPI] error: PUT /grades/2s - Invalid id
+2020-08-06T23:59:17.350Z [myBankAPI] info: api running on port 3000
+2020-08-06T23:59:45.616Z [myBankAPI] info: api running on port 3000
+2020-08-06T23:59:48.704Z [myBankAPI] info: DELETE /grades/2s - Request received
+2020-08-06T23:59:48.705Z [myBankAPI] error: DELETE /grades/2s - Invalid id
+2020-08-06T23:59:52.999Z [myBankAPI] info: DELETE /grades/2 - Request received
+2020-08-07T00:00:54.495Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:00:55.896Z [myBankAPI] info: DELETE /grades/2 - Request received
+2020-08-07T00:01:09.709Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:01:13.810Z [myBankAPI] info: DELETE /grades/2 - Request received
+2020-08-07T00:08:38.800Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:08:40.572Z [myBankAPI] info: DELETE /grades/20000000 - Request received
+2020-08-07T00:08:40.582Z [myBankAPI] error: DELETE /grades/20000000 - The resource of id 20000000 does not exist
+2020-08-07T00:08:52.789Z [myBankAPI] info: DELETE /grades/2 - Request received
+2020-08-07T00:09:12.457Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:09:14.105Z [myBankAPI] info: DELETE /grades/2 - Request received
+2020-08-07T00:11:39.891Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:12:06.087Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:12:11.784Z [myBankAPI] info: DELETE /grades/2 - Request received
+2020-08-07T00:12:11.792Z [myBankAPI] info: DELETE /grades/2 - Success
+2020-08-07T00:12:24.601Z [myBankAPI] info: DELETE /grades/20000000 - Request received
+2020-08-07T00:12:24.603Z [myBankAPI] error: DELETE /grades/20000000 - The resource of id 20000000 does not exist
+2020-08-07T00:12:34.324Z [myBankAPI] info: DELETE /grades/1 - Request received
+2020-08-07T00:12:34.326Z [myBankAPI] info: DELETE /grades/1 - Success
+2020-08-07T00:12:49.979Z [myBankAPI] info: DELETE /grades/1 - Request received
+2020-08-07T00:12:49.981Z [myBankAPI] error: DELETE /grades/1 - The resource of id 1 does not exist
+2020-08-07T00:15:53.067Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:15:59.028Z [myBankAPI] info: DELETE /grades/1 - Request received
+2020-08-07T00:15:59.035Z [myBankAPI] error: DELETE /grades/1 - The resource of id 1 does not exist
+2020-08-07T00:18:37.844Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:18:40.598Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:18:53.220Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:18:56.000Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:19:00.706Z [myBankAPI] info: DELETE /grades/1 - Request received
+2020-08-07T00:19:00.713Z [myBankAPI] warn: DELETE /grades/1 - The resource of id 1 does not exist
+2020-08-07T00:21:54.558Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:21:59.060Z [myBankAPI] info: DELETE /grades/1 - Request received
+2020-08-07T00:21:59.071Z [myBankAPI] info: DELETE /grades/1 - The resource of id 1 does not exist
+2020-08-07T00:22:26.904Z [myBankAPI] info: DELETE /grades/1 - Request received
+2020-08-07T00:22:26.908Z [myBankAPI] error: Trying to read file ./database/grades.json - ENOENT: no such file or directory, open './database/grades.json'
+2020-08-07T00:22:26.913Z [myBankAPI] error: DELETE /grades/1 - An error occurred while trying to access the resource
+2020-08-07T00:22:57.387Z [myBankAPI] info: DELETE /grades/1 - Request received
+2020-08-07T00:22:57.389Z [myBankAPI] info: DELETE /grades/1 - Success
+2020-08-07T00:29:32.356Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:29:36.495Z [myBankAPI] info: GET /grades/1 - Request received
+2020-08-07T00:29:36.500Z [myBankAPI] info: GET /grades/1 - The resource of id 1 does not exist
+2020-08-07T00:29:41.825Z [myBankAPI] info: GET /grades/2 - Request received
+2020-08-07T00:29:41.827Z [myBankAPI] info: GET /grades/2 - Success
+2020-08-07T00:34:07.482Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:34:13.560Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:34:46.729Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:39:58.657Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:41:34.707Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:45:52.893Z [myBankAPI] info: api running on port 3000
+2020-08-07T00:57:40.304Z [myBankAPI] info: api running on port 3000
+2020-08-07T01:01:31.602Z [myBankAPI] info: api running on port 3000
+2020-08-07T01:17:53.231Z [myBankAPI] info: api running on port 3000
+2020-08-07T01:18:20.431Z [myBankAPI] info: api running on port 3000
+2020-08-07T01:19:07.882Z [myBankAPI] info: api running on port 3000
+2020-08-07T01:19:20.431Z [myBankAPI] info: GET /grades/10 - Request received
+2020-08-07T01:19:20.435Z [myBankAPI] info: GET /grades/10 - Success
+2020-08-07T01:34:43.600Z [myBankAPI] info: api running on port 3000
+2020-08-07T01:35:35.570Z [myBankAPI] info: GET /grades/student - Request received
+2020-08-07T01:35:35.573Z [myBankAPI] info: GET /grades/student - Invalid id
+2020-08-07T01:35:49.887Z [myBankAPI] info: api running on port 3000
+2020-08-07T01:35:54.060Z [myBankAPI] info: GET /grades/student - Request received
+2020-08-07T01:35:54.069Z [myBankAPI] info: GET /grades/student - Success
+2020-08-07T01:36:22.695Z [myBankAPI] info: api running on port 3000
+2020-08-07T01:36:29.364Z [myBankAPI] info: GET /grades/student - Request received
+2020-08-07T01:36:29.368Z [myBankAPI] info: GET /grades/student - Success
+2020-08-07T01:36:57.753Z [myBankAPI] info: api running on port 3000
+2020-08-07T01:36:59.746Z [myBankAPI] info: GET /grades/student - Request received
+2020-08-07T01:36:59.750Z [myBankAPI] info: GET /grades/student - Success
+2020-08-07T01:37:23.027Z [myBankAPI] info: GET /grades/54 - Request received
+2020-08-07T01:37:23.029Z [myBankAPI] info: GET /grades/54 - The resource of id 54 does not exist
+2020-08-07T01:37:30.748Z [myBankAPI] info: POST /grades - Request received
+2020-08-07T01:37:30.750Z [myBankAPI] info: POST /grades - Success
+2020-08-07T01:37:33.904Z [myBankAPI] info: GET /grades/student - Request received
+2020-08-07T01:37:33.906Z [myBankAPI] info: GET /grades/student - Success
+2020-08-07T01:37:56.914Z [myBankAPI] info: POST /grades - Request received
+2020-08-07T01:37:56.916Z [myBankAPI] info: POST /grades - Success
+2020-08-07T01:38:00.863Z [myBankAPI] info: GET /grades/student - Request received
+2020-08-07T01:38:00.865Z [myBankAPI] info: GET /grades/student - Success
+2020-08-07T01:38:18.968Z [myBankAPI] info: POST /grades - Request received
+2020-08-07T01:38:18.970Z [myBankAPI] info: POST /grades - Success
+2020-08-07T01:38:21.709Z [myBankAPI] info: GET /grades/student - Request received
+2020-08-07T01:38:21.714Z [myBankAPI] info: GET /grades/student - Success
+2020-08-07T01:45:01.535Z [myBankAPI] info: api running on port 3000
+2020-08-07T01:45:06.917Z [myBankAPI] info: POST /grades/student - Request received
+2020-08-07T01:45:06.923Z [myBankAPI] info: POST /grades/student - Success
+2020-08-07T01:45:38.406Z [myBankAPI] info: POST /grades - Request received
+2020-08-07T01:45:38.411Z [myBankAPI] info: POST /grades - Success
+2020-08-07T01:45:40.799Z [myBankAPI] info: POST /grades/student - Request received
+2020-08-07T01:45:40.801Z [myBankAPI] info: POST /grades/student - Success
+2020-08-07T01:45:52.455Z [myBankAPI] info: POST /grades/student - Request received
+2020-08-07T01:45:52.456Z [myBankAPI] info: POST /grades/student - Success
+2020-08-07T01:46:03.989Z [myBankAPI] info: POST /grades/student - Request received
+2020-08-07T01:46:03.991Z [myBankAPI] info: POST /grades/student - Success
+2020-08-07T01:46:47.106Z [myBankAPI] info: POST /grades/student - Request received
+2020-08-07T01:46:47.111Z [myBankAPI] info: POST /grades/student - Success
+2020-08-07T01:47:04.129Z [myBankAPI] info: POST /grades/student - Request received
+2020-08-07T01:47:04.131Z [myBankAPI] info: POST /grades/student - Success
+2020-08-07T01:51:10.437Z [myBankAPI] info: api running on port 3000
+2020-08-07T01:51:15.197Z [myBankAPI] info: POST /grades/student - Request received
+2020-08-07T01:51:15.201Z [myBankAPI] info: POST /grades/student - Success
+2020-08-07T01:51:32.349Z [myBankAPI] info: POST /grades/student - Request received
+2020-08-07T01:51:32.350Z [myBankAPI] info: POST /grades/student - Success
+2020-08-07T01:57:11.748Z [myBankAPI] info: api running on port 3000
+2020-08-07T01:58:13.848Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:04:52.661Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:04:59.473Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:04:59.478Z [myBankAPI] info: POST /grades/average - There are no grades for this parameters
+2020-08-07T02:05:40.234Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:05:41.783Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:05:41.788Z [myBankAPI] info: POST /grades/average - There are no grades for this parameters
+2020-08-07T02:05:52.365Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:06:00.267Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:06:35.837Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:06:37.539Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:06:37.540Z [myBankAPI] info: POST /grades/average - Invalid payload
+2020-08-07T02:06:53.108Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:07:53.733Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:07:58.288Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:07:58.291Z [myBankAPI] info: POST /grades/average - Success
+2020-08-07T02:08:45.157Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:08:45.162Z [myBankAPI] info: POST /grades/average - Success
+2020-08-07T02:08:58.499Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:08:58.508Z [myBankAPI] info: POST /grades/average - There are no grades for this parameters
+2020-08-07T02:09:23.898Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:13:25.697Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:13:34.181Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:13:38.262Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:14:04.707Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:14:04.713Z [myBankAPI] info: POST /grades/average - There are no grades for this parameters
+2020-08-07T02:14:21.337Z [myBankAPI] info: POST /grades/top3 - Request received
+2020-08-07T02:14:21.339Z [myBankAPI] info: POST /grades/top3 - Success
+2020-08-07T02:14:34.544Z [myBankAPI] info: POST /grades/top3 - Request received
+2020-08-07T02:14:34.546Z [myBankAPI] info: POST /grades/top3 - Success
+2020-08-07T02:14:49.033Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:14:51.331Z [myBankAPI] info: POST /grades/top3 - Request received
+2020-08-07T02:14:51.338Z [myBankAPI] info: POST /grades/top3 - Success
+2020-08-07T02:17:11.441Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:17:22.852Z [myBankAPI] info: POST /grades/top3 - Request received
+2020-08-07T02:17:22.861Z [myBankAPI] info: POST /grades/top3 - Success
+2020-08-07T02:17:51.295Z [myBankAPI] info: POST /grades/top3 - Request received
+2020-08-07T02:17:51.298Z [myBankAPI] info: POST /grades/top3 - Success
+2020-08-07T02:18:57.993Z [myBankAPI] info: api running on port 3000
+2020-08-07T02:23:05.382Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:23:05.396Z [myBankAPI] info: POST /grades/average - Success
+2020-08-07T02:23:47.921Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:23:47.925Z [myBankAPI] info: POST /grades/average - Success
+2020-08-07T02:25:03.031Z [myBankAPI] info: POST /grades/top3 - Request received
+2020-08-07T02:25:03.034Z [myBankAPI] info: POST /grades/top3 - Success
+2020-08-07T02:25:38.594Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:25:38.595Z [myBankAPI] info: POST /grades/average - Success
+2020-08-07T02:26:32.920Z [myBankAPI] info: POST /grades/student - Request received
+2020-08-07T02:26:32.923Z [myBankAPI] info: POST /grades/student - Success
+2020-08-07T02:27:51.051Z [myBankAPI] info: POST /grades - Request received
+2020-08-07T02:27:51.055Z [myBankAPI] info: POST /grades - Success
+2020-08-07T02:28:12.652Z [myBankAPI] info: POST /grades/student - Request received
+2020-08-07T02:28:12.655Z [myBankAPI] info: POST /grades/student - Success
+2020-08-07T02:29:18.040Z [myBankAPI] info: GET /grades/33 - Request received
+2020-08-07T02:29:18.045Z [myBankAPI] info: GET /grades/33 - Success
+2020-08-07T02:29:43.848Z [myBankAPI] info: PUT /grades/33 - Request received
+2020-08-07T02:29:43.853Z [myBankAPI] info: PUT /grades/33 - Success
+2020-08-07T02:30:24.155Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:30:24.158Z [myBankAPI] info: POST /grades/average - Success
+2020-08-07T02:30:45.703Z [myBankAPI] info: DELETE /grades/32 - Request received
+2020-08-07T02:30:45.710Z [myBankAPI] info: DELETE /grades/32 - Success
+2020-08-07T02:31:23.902Z [myBankAPI] info: POST /grades/average - Request received
+2020-08-07T02:31:23.903Z [myBankAPI] info: POST /grades/average - Success
+2020-08-07T02:31:42.336Z [myBankAPI] info: GET /grades/43 - Request received
+2020-08-07T02:31:42.339Z [myBankAPI] info: GET /grades/43 - Success
